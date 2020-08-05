@@ -3,6 +3,6 @@ git add test.py
 
 git commit -m "first commit"
 
-git remote add origin https://github.com/jzb1111/mapmusic.git
+git remote add origin https://github.com/jzb1111/mapmusic.git #已有分支就不需要再写
 
 git push -u origin master
