@@ -1,0 +1,8 @@
+#上传
+git add test.py
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/jzb1111/mapmusic.git
+
+git push -u origin master
